@@ -1,0 +1,7 @@
+total 20
+drwxrwxr-x 3 mpc mpc 4096 Jun 14 00:58 .
+drwxrwxr-x 4 mpc mpc 4096 Jun 13 00:36 ..
+-rw-rw-r-- 1 mpc mpc   20 Jun 14 00:47 CONTRIBUTING
+drwxrwxr-x 8 mpc mpc 4096 Jun 14 00:47 .git
+-rw-rw-r-- 1 mpc mpc    0 Jun 14 00:58 list
+-rw-rw-r-- 1 mpc mpc   22 Jun 13 00:57 README.md
